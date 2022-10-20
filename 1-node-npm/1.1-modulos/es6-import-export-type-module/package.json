@@ -1,0 +1,20 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lordbear117/gen18d-intro-frontend-cesarcastro.git"
+  },
+  "author": "lordbear",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lordbear117/gen18d-intro-frontend-cesarcastro/issues"
+  },
+  "homepage": "https://github.com/Lordbear117/gen18d-intro-frontend-cesarcastro#readme"
+}
