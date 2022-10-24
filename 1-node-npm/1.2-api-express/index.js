@@ -4,11 +4,11 @@ const app = express();
 const port = 3000
 
 app.get('/', (req, res) => {
-  res.send('Mi primer respuetsa desde mi API en ExpressJS');
+  res.send('Mi primer respuesta desde mi API en ExpressJS');
 })
 
 app.use(express.json());
-app.post("/create", (req, res) => {
+app.post("/", (req, res) => {
     const body = req.body;
     console.log("recibi", body);
     res.status(201).send();
