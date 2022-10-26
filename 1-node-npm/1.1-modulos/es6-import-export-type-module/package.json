@@ -7,14 +7,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Lordbear117/gen18d-intro-frontend-cesarcastro.git"
-  },
-  "author": "lordbear",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Lordbear117/gen18d-intro-frontend-cesarcastro/issues"
-  },
-  "homepage": "https://github.com/Lordbear117/gen18d-intro-frontend-cesarcastro#readme"
+  "author": "montoyaguzman",
+  "license": "ISC"
 }
