@@ -1,9 +1,9 @@
 import React from 'react';
 import './App.css';
 import NavBar from './components/NavBar';
-import AboutPage from './components/pages/AboutPage';
-import CreatePage from './components/pages/CreatePage';
-import SearchPage from './components/pages/SearchPage';
+import AboutPage from './pages/AboutPage';
+import CreatePage from './pages/CreatePage';
+import SearchPage from './pages/SearchPage';
 
 
 function App() {
